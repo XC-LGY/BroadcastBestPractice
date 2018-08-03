@@ -16,4 +16,10 @@
         android:layout_height="wrap_content"
         android:text="Send force offline broadcast 【强制下线】"/>
 
+    <Button
+        android:id="@+id/force_offline3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send force offline broadcast 【强制下线】"/>
+
 </LinearLayout>
